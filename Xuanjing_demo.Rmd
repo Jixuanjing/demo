@@ -46,7 +46,7 @@ mean(cars$speed)
 
 the mean speed of car is `r mean(cars$speed)`.
 
-
+jxj
 Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
 
 关于制作表格我们可使用markdown table generator
